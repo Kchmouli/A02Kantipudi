@@ -1,8 +1,8 @@
-# 44-563 A01-HTML-CSS
+# 44-563 A02-HTML-CSS-BootStrap-Javascript-JQuery
 
 Personal Website
 
-Focus: HTML, CSS, JavaScript
+Focus: HTML, CSS, JavaScript, jQuery
 
 # Uses
 
